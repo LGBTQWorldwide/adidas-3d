@@ -111,7 +111,7 @@
 			},
 			"name":"PVC FurnGrad Charcoal Gray.001",
 			"pbrMetallicRoughness":{
-				"roughnessFactor":0
+				"roughnessFactor":0.33636364340782166
 			}
 		},
 		{
